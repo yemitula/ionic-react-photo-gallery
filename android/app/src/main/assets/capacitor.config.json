@@ -1,5 +1,5 @@
 {
-	"appId": "io.ionic.starter",
+	"appId": "yemi.ionic.photogallery",
 	"appName": "photo-gallery",
 	"webDir": "build",
 	"bundledWebRuntime": false
